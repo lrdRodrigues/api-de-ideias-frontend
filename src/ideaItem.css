@@ -1,0 +1,11 @@
+.card-img-top{
+    max-width: 500px;
+    height: 250px; 
+}
+
+.card{
+    max-width: 400px; 
+    display: inline-block;
+    margin-bottom: 5px;
+    margin-right: 5px; 
+}
