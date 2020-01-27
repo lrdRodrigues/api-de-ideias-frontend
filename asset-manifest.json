@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/api-de-ideias/static/css/main.47992c59.chunk.css",
+    "main.js": "/api-de-ideias/static/js/main.ddbfdc1d.chunk.js",
+    "main.js.map": "/api-de-ideias/static/js/main.ddbfdc1d.chunk.js.map",
+    "runtime-main.js": "/api-de-ideias/static/js/runtime-main.3a060649.js",
+    "runtime-main.js.map": "/api-de-ideias/static/js/runtime-main.3a060649.js.map",
+    "static/css/2.67123b20.chunk.css": "/api-de-ideias/static/css/2.67123b20.chunk.css",
+    "static/js/2.41dc84e3.chunk.js": "/api-de-ideias/static/js/2.41dc84e3.chunk.js",
+    "static/js/2.41dc84e3.chunk.js.map": "/api-de-ideias/static/js/2.41dc84e3.chunk.js.map",
+    "index.html": "/api-de-ideias/index.html",
+    "precache-manifest.33b2861719718fcda159fbf8d1553883.js": "/api-de-ideias/precache-manifest.33b2861719718fcda159fbf8d1553883.js",
+    "service-worker.js": "/api-de-ideias/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/api-de-ideias/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.47992c59.chunk.css.map": "/api-de-ideias/static/css/main.47992c59.chunk.css.map",
+    "static/js/2.41dc84e3.chunk.js.LICENSE": "/api-de-ideias/static/js/2.41dc84e3.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a060649.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.41dc84e3.chunk.js",
+    "static/css/main.47992c59.chunk.css",
+    "static/js/main.ddbfdc1d.chunk.js"
+  ]
+}
